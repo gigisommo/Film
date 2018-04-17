@@ -1,0 +1,22 @@
+{
+  "name": "Film",
+  "version": "0.1.0",
+  "summary": "A short description of Film.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gigisommo/Film",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gigisommo": "luigi.parpinel@subito.it"
+  },
+  "source": {
+    "git": "https://github.com/gigisommo/Film.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Film/Classes/**/*"
+}

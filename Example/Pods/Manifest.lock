@@ -1,0 +1,16 @@
+PODS:
+  - Film (0.1.0)
+
+DEPENDENCIES:
+  - Film (from `../`)
+
+EXTERNAL SOURCES:
+  Film:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Film: f2a1d2c5ef82ad208adfcdeafafc9e39eb79ddae
+
+PODFILE CHECKSUM: dc88eb6fef8776e634d18f0daceffa344ce54936
+
+COCOAPODS: 1.4.0
