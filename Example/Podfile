@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Film_Example' do
+  pod 'Film', :path => '../'
+
+  target 'Film_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
