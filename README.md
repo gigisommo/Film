@@ -22,7 +22,7 @@ pod 'Film'
 
 ## Author
 
-gigisommo, luigi.parpinel@subito.it
+Luigi Parpinel, luigiparpinel@gmail.com
 
 ## License
 
